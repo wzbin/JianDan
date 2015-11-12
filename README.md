@@ -21,3 +21,5 @@
 主程序在MyNewEgg 下的 testJiandan.java
 
 效果图：
+  ![](https://github.com/wzbin/JianDan/raw/master/1.png)  
+   ![](https://github.com/wzbin/JianDan/raw/master/2.png)  
